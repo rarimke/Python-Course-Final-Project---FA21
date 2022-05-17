@@ -88,5 +88,4 @@ def main():
     get_stats(df.loc[:, "a10"], m)
   
     
-
 main()
