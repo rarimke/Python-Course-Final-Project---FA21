@@ -5,7 +5,7 @@
 #Program that draws histograms and computes descriptive statistics for
 #the columns of data in the breast_cancer_wisconsin dataset 
 
-#referenced: A11_Q1, A10_Q2
+#referenced: A11_Q1, A10_Q2 (Course Assignments)
     
 import matplotlib.pyplot as plt
 import numpy as np
